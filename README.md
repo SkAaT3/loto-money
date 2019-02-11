@@ -1,0 +1,2 @@
+# loto-money
+loto-money
